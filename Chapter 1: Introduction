@@ -7,3 +7,57 @@
 #Changelog
 
 Reserved.
+Chapter 1: Introduction 
+3 
+In today's fast-changing world of computer technology, optimizing personal computer 
+(PC) components has become crucial for people looking to enhance performance across various 
+applications. This thesis explores PC component optimization, examining the methods, 
+techniques, and real-world impacts of fine-tuning hardware for peak efficiency. Over the years, 
+personal computers (PCs) have gone from basic devices to powerful machines that can handle 
+everything from gaming to professional content creation. With software becoming more 
+demanding, hardware must keep up, and that’s where PC optimization comes in. Helping users 
+squeeze out more performance from their systems, sometimes even pushing beyond what 
+manufacturers recommend. Optimizing a PC involves a range of strategies, from choosing the 
+right parts to configuring them the right way. The goal is to find a balance between key 
+components like the central processing unit (CPU), graphics processing unit (GPU), random 
+access memory (RAM), and storage—because how these pieces work together is essential for 
+getting the best performance and experience. 
+Getting optimal performance out of your PC isn’t just an idea—it has real-world benefits 
+for everyone, from pros to casual users. For example, we can look at gaming, small boosts in 
+system responsiveness can be the difference between winning and losing. For professionals, 
+optimizing your PC can cut down on rendering times for 3D artists or speed up compilation for 
+developers, which can immensely improve productivity. The problem here is that many people 
+don’t know the best ways to optimize their systems. With technology changing so quickly, 
+there’s always something new to think about. The relationships between components can be 
+tricky, making it hard to predict what any one tweak will do to the whole system. A lot of users 
+get overwhelmed by the endless options for part selection and configuration, which can lead to 
+poor performance, wasted resources, and sometimes even damage if the optimization isn’t done 
+4 
+right. Right now, there’s no solid, research-backed guide for how to optimize your PC across 
+different use cases, and that’s a big gap in both computer science and tech for consumers. This 
+gap is significant because it leaves users, from casual gamers to professional content creators, 
+without reliable strategies for maximizing their PC’s performance while avoiding risks like 
+instability or reduced component lifespan. A review of existing literature, as discussed in Chapter 
+2, reveals scattered research focused on individual components or techniques but no 
+comprehensive approach that addresses a variety of real-world use cases. This thesis aims to 
+bridge that gap. 
+This thesis tackles these challenges by taking a deep dive into PC component 
+optimization. The main goals here are to review existing research on hardware, optimization 
+strategies, and benchmarking methods; to build a solid approach for testing how different 
+optimization techniques impact overall system performance; to break down specific optimization 
+techniques for important parts like the CPU, GPU, RAM, and storage; to look at real-world gains 
+in gaming, content creation, and everyday productivity; to offer practical recommendations for 
+optimizing your PC based on different user needs; and to examine the risks that come with 
+pushing optimization too far, giving advice on how to balance better performance with system 
+stability.  
+The structure of this thesis presents a logical progression through the topic of PC 
+component optimization. Following this introduction, Chapter 2 reviews the existing research in 
+the field of PC optimization. Chapter 3 outlines the research methodology, including criteria for 
+selecting components and the benchmarking methods used to gather data on optimization 
+techniques. Chapter 4 covers specific optimization strategies for various PC components, 
+5 
+including both hardware-level and software-based adjustments. Chapter 5 analyzes the results of 
+the optimization experiments, detailing benchmarking data and comparing different strategies. 
+Through this structured approach, this thesis provides valuable insights into PC component 
+optimization, offering both theoretical understanding and practical guidance for users looking to 
+enhance their system's performance.
